@@ -16,7 +16,6 @@
  </div>
  
  ### Main skills:
-<h3 align="center">Back-End Languages</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="80em"/>
