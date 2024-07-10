@@ -4,8 +4,9 @@
 
 
 <div align="center">  
-  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api?username=thaisndc&show_icons=true&count_private=true&theme=tokyonight" alt="Thais Nascimento github stats" /> 
-  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisndc&theme=tokyonight" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=thaisndc&show_icons=true&count_private=true&theme=tokyonight" alt="Thais Nascimento github stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisndc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
 
 
@@ -28,13 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="80em"/>
 </div>
 
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaisndc}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
